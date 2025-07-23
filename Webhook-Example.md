@@ -5,8 +5,6 @@ This process assumes you have the following:
 - Your instance has public-internet-available webhook capabilities
 - Basic understanding of n8n UI and concepts
 
-
-
 ### Instructions
 * Open the [file] in a new tab.
 * Copy the JSON
