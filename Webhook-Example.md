@@ -1,2 +1,2 @@
-## Sinple webhook reciever for n8n
+## Simple webhook reciever for n8n
 
